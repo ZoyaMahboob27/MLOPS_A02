@@ -1,0 +1,5 @@
+apache-airflow
+dvc
+beautifulsoup4
+requests
+dvc-gdrive
